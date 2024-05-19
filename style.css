@@ -5,14 +5,14 @@
     box-sizing: border-box;
 }
 body{
-    background: url('bg1.jpg');
+    background: url('bg4.jpg');
     background-size: cover;
     backface-visibility: visible;
 }
 .card{
     width: 90%;
     max-width: 470px;
-    background: red;
+    background: rgba(255,255,255,.2);
     backdrop-filter: blur(15px);
     color: #fff;
     margin: 20px auto 0;
