@@ -1,4 +1,4 @@
-# Weather Web Application
+# SkyCast - Weather Web Application
 
 ## Overview
 This is a simple weather web application that allows users to check the current weather conditions of any location worldwide. It's built using HTML, CSS, and JavaScript, and it utilizes the OpenWeatherMap API to fetch weather data.
